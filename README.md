@@ -10,3 +10,7 @@ It is very easy and intuitive to play.
 
 # Important Note
 All variables, functions, files, etc, were originally written with portuguese names. These were translated to english here to ease readability.
+
+# Credits
+Code: Raffael de Araujo.
+Design: Wallace Oliveira, Leandro Rodrigues.
