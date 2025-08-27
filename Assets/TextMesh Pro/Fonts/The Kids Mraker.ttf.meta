@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c90055634830a2242890bc55f5f980d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Kids Mraker
+  fontNames:
+  - The Kids Mraker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13d45e089e69d124197d9b0f6a943eee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
