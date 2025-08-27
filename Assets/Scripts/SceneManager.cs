@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TrocadorDeCenas : MonoBehaviour
+public class SceneManager : MonoBehaviour
 {
     public void SceneInGame()
     {
