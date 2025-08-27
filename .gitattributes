@@ -1,2 +1,6 @@
-*.cs linguist-detectable=true
-*.shader linguist-detectable=false
+.cs linguist-detectable=true
+.cs linguist-language=C#
+
+.shader linguist-detectable=false
+.cginc linguist-detectable=false
+.hlsl linguist-detectable=false
