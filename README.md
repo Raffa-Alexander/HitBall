@@ -10,7 +10,7 @@ It is very easy and intuitive to play.
 
 # Video on YouTube
 
-[![Demonstração do jogo](https://img.youtube.com/vi/7-bF9POKJMo/0.jpg)](https://youtu.be/7-bF9POKJMo?feature=shared)
+[![Video on YouTube](https://img.youtube.com/vi/7-bF9POKJMo/0.jpg)](https://youtu.be/7-bF9POKJMo?feature=shared)
 
 # Important Note
 All variables, functions, files, etc, were originally written with portuguese names. These were translated to english here to ease readability.
